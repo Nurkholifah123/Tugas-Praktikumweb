@@ -1,0 +1,15 @@
+<body>
+    <main>
+        <header>
+            <!---buat navbar-->
+            <nav>
+                <!---buat link-->
+                <table width="800"
+                <tr>
+                    <td>
+                        <h1><li>Site Name</b></li><h1>
+                        </td>
+                        <td>
+                            <a href="#">catagory 1/</a>
+                            <a href="#">catagory 2/</a>
+                            <a href="#">catagory 3/</a>

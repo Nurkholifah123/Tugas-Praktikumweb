@@ -1,0 +1,39 @@
+body {
+    background: salmon;
+    font-family: sans-serif;
+    
+}
+    h2 {
+        color: white;
+        text-align: center;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    padding: 8px;
+    width: 95%;
+    background: rgb(177, 165, 165);
+    border: 0;
+    font-size: 10pt;
+    margin: 6px 0px;
+}
+    label {
+        font-size: 10pt;
+        color: #555;
+}
+      
+    .tombol {
+        background: salmon;
+        color: white;
+        border: 0;
+        padding: 5px 8px;
+    }
+
+    .login {
+        padding: 1em;
+        margin: 2em auto;
+        width: 17em;
+        background: rgb(189, 185, 185);
+        border-radius: 3px;
+}
